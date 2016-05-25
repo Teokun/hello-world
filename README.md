@@ -2,5 +2,5 @@
 
 Bonjour,
 Hello,
-Hola,
+Hallo,
 Xin chao !
